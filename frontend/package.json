@@ -1,8 +1,8 @@
 {
   "name": "frontend",
   "version": "1.0.0",
-  "description": "A Vue.js project",
-  "author": "ChangJoo Park <pcjpcj2@gmail.com>",
+  "description": "A Vue.js project-Frontend",
+  "author": "Kelvin Chen <bdfd2005@gmail.com>",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",

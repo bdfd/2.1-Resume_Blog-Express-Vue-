@@ -1,7 +1,8 @@
 {
   "name": "vue-with-express",
   "version": "1.0.0",
-  "description": "",
+  "description": "A Vue.js project-Configure File",
+  "author": "Kelvin Chen <bdfd2005@gmail.com>",
   "main": "index.js",
   "scripts": {
     "server": "cd backend && npm start",
@@ -10,7 +11,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
   "license": "ISC",
   "devDependencies": {
     "concurrently": "^3.1.0"
