@@ -67,7 +67,7 @@ app.use(staticPath, express.static('./static'))
 var uri = 'http://localhost:' + port
 
 devMiddleware.waitUntilValid(function () {
-  console.log('> Listening at ' + uri + '\n')
+  console.log('> Listening at ' + uri + '\n')docker build -t bdfd/resume_blog:1.0 .
 })
 
 module.exports = app.listen(port, function (err) {
